@@ -10,5 +10,5 @@ A Discord bot that notifies users based on current rank of various Coin releases
 - [Discord.js](https://discord.js.org/#//)
 - [axios](https://axios-http.com/)
 - [sharp](https://github.com/lovell/sharp) 
-- [express](https://expressjs.com/))
+- [express](https://expressjs.com/)
 
